@@ -1,0 +1,9 @@
+.nav_container{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.active{
+    color: red;
+    background-color: antiquewhite;
+}
